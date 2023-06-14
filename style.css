@@ -6,6 +6,7 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
       'Lucida Sans', Arial, sans-serif;
   }
+
   
   nav {
     height: 80px;
@@ -69,7 +70,7 @@
     padding: 1rem 3rem;
     font-size: 1rem;
     border: none;
-    color: #482857;
+    color: #b67ecf;
     background: #000;
     cursor: pointer;
     border-radius: 50px;
@@ -78,6 +79,12 @@
   button:hover {
     background: #fff;
     color: #000;
+  }
+  #About{
+    background-color: #af85c2;
+  }
+  #Projects{
+    background-color: #674c74;
   }
   
   .column-right {
