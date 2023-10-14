@@ -120,10 +120,14 @@
     height: 500px;
   }
 
+  .content {
+    width:100%;
+}
   #wrapper {
-    min-width: 300px; /* 100px x3 = 300 */
+    min-width: 800px; /* 100px x3 = 300 */
     overflow:scroll;
 }
+  
   
   @media screen and (max-width: 768px) {
     .hero-container {
