@@ -7,13 +7,13 @@
       'Lucida Sans', Arial, sans-serif;
   }
 /* testing link colorization */
-  a:link {
+  /* a:link {
     color: rgb(255, 255, 255);
   }
   
   a:visited {
     color: blue;
-  }
+  } */
   
   /* a:hover {
     background-color: lightgreen;
@@ -114,6 +114,16 @@
     width: 100%;
     height: 100%;
   }
+
+  #resume {
+    width: 85%;
+    height: 500px;
+  }
+
+  #wrapper {
+    min-width: 300px; /* 100px x3 = 300 */
+    overflow:scroll;
+}
   
   @media screen and (max-width: 768px) {
     .hero-container {
