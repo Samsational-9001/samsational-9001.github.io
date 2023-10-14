@@ -8,20 +8,20 @@
   }
 /* testing link colorization */
   a:link {
-    background-color: yellow;
+    color: rgb(255, 255, 255);
   }
   
   a:visited {
-    background-color: purple;
+    color: blue;
   }
   
-  a:hover {
+  /* a:hover {
     background-color: lightgreen;
   }
   
   a:active {
     background-color: hotpink;
-  }
+  } */
 
   
   nav {
