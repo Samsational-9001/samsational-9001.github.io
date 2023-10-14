@@ -1,4 +1,4 @@
-/* addin some style */
+/* addin' some style */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -11,7 +11,7 @@
   nav {
     height: 80px;
     background: #c9d6ff;
-    display: flex;
+    display: relative;
     justify-content: space-between;
     align-items: center;
     padding: 0rem calc((100vw - 1300px) / 2);
